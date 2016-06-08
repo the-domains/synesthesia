@@ -1,0 +1,28 @@
+name: synesthesia.cz
+favicon: null
+layout_spectrum: 0.020535555202513933
+typography_spectrum: 0.03540167328901589
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2746902524959296
+  lightness: 0.6473735903855413
+  saturation: 0.14557547261938453
+  rhythmicContrast: 0.784425639314577
+purpose: []
